@@ -1,0 +1,4 @@
+.menu-container .ant-menu-item:nth-last-child(3),
+.menu-container .ant-menu-item:nth-last-child(2) {
+    float: right;
+}
