@@ -15,7 +15,6 @@ const store = createStore(rootReducer, composeWithDevTools());
 
 // we need to provide the store to our application so that components
 // and pages can access the store
-
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
